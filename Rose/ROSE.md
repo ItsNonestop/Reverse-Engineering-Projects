@@ -14,3 +14,17 @@ If you think it's too easy, only use static analysis/patching to crack.
 - Ghidra
 
 ---
+
+### Creating Project
+<img src="https://github.com/user-attachments/assets/80c82d8c-945d-4c77-9a82-569e50b31420" width="700"/>
+
+### Importing Rose.exe
+<img src="https://github.com/user-attachments/assets/71a313a3-2169-4ec0-8116-e639d11460a1" width="700"/>
+
+### Import Results Summary
+<img src="https://github.com/user-attachments/assets/57c6a3df-7137-4f06-958d-ad459e600bf7" width="700"/>
+
+### Analysis
+<img src="https://github.com/user-attachments/assets/990b877a-53a1-4b90-9ec9-9324019f12ca" width="700"/>
+
+---
