@@ -57,6 +57,7 @@ The main entry point seems to be at function `FUN_14000ece0`
 
 ### Stage 1: The Loop
 <img src="https://github.com/user-attachments/assets/36803b13-7c7e-40cb-a4cf-bc746ae78d34" width="700"/>
+
 `FUN_14000ece0` has a `while` loop that seemingly is designed to stall code execution
 - Ghidra Address: `14000eea0`
 - Logic: The code checks for a value and then sleeps for 100ms in a loop if the check fails:
@@ -71,6 +72,7 @@ The main entry point seems to be at function `FUN_14000ece0`
 
 ### Stage 2: The Slow Print
 <img src="https://github.com/user-attachments/assets/ddab2b70-369d-4c35-9484-cc5a65e12fac" width="700"/>
+
 When the program is ran it prints the text very slowly, pretty inconvient, the hint mentions a `Sleep` duration.
 - Function `FUN_140001bd0` (Print Function)
 - Logic: Iterates through string if the character is `'|'` (Pipe), it sleeps for `0x12C` (300ms)
