@@ -18,3 +18,8 @@ Primary Tool:
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 If additional tools are used they will be mentioned within the specific challenges folder
+
+---
+
+## Documentation
+Documentation will be found in the specifc challanges folder as a markdown file under the same name, the documentation isnt meant to be perfect, just showing the steps I have taken to attempt to solve the challanges
