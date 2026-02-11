@@ -84,7 +84,7 @@ if (char == '|') {
 
 ---
 
+### Stage 3: 
 
 ---
 
-### Stage 3: Text Adventure
