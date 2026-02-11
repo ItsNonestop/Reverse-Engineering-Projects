@@ -42,11 +42,6 @@ Started by unauthorised static analysis
   - Changed the sleep when printing a certain charcter is 0x10ms
 
 - Imports: `IsDebuggerPresent` `VirtualProtect` `SetWindowsHookExA` suggests anti debugging and possbile hooking
-<img src="https://github.com/user-attachments/assets/3070fc15-9c42-4226-9141-ff959620a2fb" width="700"/>
-
-<img src="https://github.com/user-attachments/assets/5ddc8ebd-332f-43dd-bd49-1b2562fea7b9" width="700"/>
-
-<img src="https://github.com/user-attachments/assets/89ba6012-f2c6-4a43-9c16-a4d46399d38c" width="700"/>
 
 ---
 
